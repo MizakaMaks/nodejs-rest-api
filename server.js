@@ -4,8 +4,6 @@ const app = require("./app");
 
 const { DB_HOST } = process.env;
 
-// e5d48fPBX70Ek7fq
-
 mongoose.set("strictQuery", true);
 
 mongoose
